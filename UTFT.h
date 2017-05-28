@@ -54,7 +54,7 @@
 #define PORTRAIT 0
 #define LANDSCAPE 1
 
-#define HX8347A			0
+#define HX8357D			0
 #define ILI9327			1
 #define SSD1289			2
 #define ILI9325C		3
